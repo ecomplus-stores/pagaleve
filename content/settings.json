@@ -1,7 +1,7 @@
 {
   "domain": "rmtechinformatica.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#002c6b",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/logo-nova-ricardo.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#001034",
   "icon": "/img/uploads/logo-nova-ricardo.png",
   "store_id": 51422,
   "description": "rmtechinformatica",
