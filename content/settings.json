@@ -14,13 +14,13 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
-  "icons_font": "_",
+  "font_family": "Roboto",
+  "favicon": "/img/uploads/logo-nova-ricardo.png",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logo-nova-ricardo.png",
   "store_id": 51422,
   "description": "rmtechinformatica",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/logo-nova-ricardo.png"
 }
