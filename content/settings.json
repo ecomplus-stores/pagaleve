@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#002c6b",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cerulean",
+    "custom": "niche-game"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/rmtechinformatica",
