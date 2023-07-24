@@ -1,5 +1,5 @@
 {
-  "domain": "rmtechinformatica.netlify.app",
+  "domain": "pageleve.netlify.app",
   "currency_symbol": "R$",
   "primary_color": "#002c6b",
   "theme": {
@@ -8,19 +8,19 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/rmtechinformatica",
-  "logo": "/img/uploads/logo-nova-ricardo-2.png",
-  "name": "RmTechInformática",
-  "short_name": "rmtechinformatica",
+  "logo": "/img/uploads/pagaleve-logo.svg",
+  "name": "Pagaleve",
+  "short_name": "Pageleve",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Roboto",
-  "favicon": "/img/uploads/logo-nova-ricardo.png",
+  "favicon": "/img/uploads/pagaleve-logo.svg",
   "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#001034",
-  "icon": "/img/uploads/logo-nova-ricardo.png",
+  "icon": "/img/uploads/pagaleve-logo.svg",
   "store_id": 51422,
-  "description": "rmtechinformatica",
-  "large_icon": "/img/uploads/logo-nova-ricardo.png"
+  "description": "Pageleve",
+  "large_icon": "/img/uploads/pagaleve-logo.svg"
 }

@@ -7,21 +7,6 @@
       "autoplay": 9000,
       "full_width": false,
       "slides": [
-        {
-          "img": "/img/uploads/rede-social-manutencao-de-celulares-009-carrossel.jpg",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/rede-social-manutencao-de-celulares-009-carrossel.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/rede-social-manutencao-de-celulares-009-carrossel.jpg",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
-        }
       ]
     },
     {
@@ -40,8 +25,8 @@
     },
     {
       "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "title": "Pagaleve",
+      "description": "Loja de demonstração e testes da forma de pagamento Pagaleve"
     }
   ]
 }
